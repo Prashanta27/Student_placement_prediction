@@ -12,16 +12,6 @@ The classification model is built using Logistic Regression, a widely used algor
 The model learns the relationship between:
 Student CGPA and Placement Status (Placed / Not Placed)
 
-📊 Dataset
-
-The dataset used in this project contains student placement information including:
-
-Feature ⏩	Description
-CGPA ⏩	Student academic performance
-Placement Status ⏩	Whether the student was placed or not
-
-The dataset is used to train a classification model that predicts placement outcomes.
-
 ⚙️ Technologies Used
 
 1.Python
